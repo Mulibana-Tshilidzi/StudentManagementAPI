@@ -52,3 +52,7 @@ targets a student ID that does not exist in the system.
 A complete Endpoint Plan was prepared during Part 1,
 documenting every route, method, and expected response
 before implementation began.
+## Testing Evidence
+All endpoints were tested using Swagger UI. Screenshots of
+each successful test are included in the accompanying Word
+document as required evidence.
