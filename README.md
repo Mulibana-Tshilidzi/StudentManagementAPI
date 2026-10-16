@@ -41,3 +41,7 @@ for direct contact communication.
 - Accepts student ID and updated details
 - Returns 200 OK when updated successfully
 - Returns 404 Not Found if student does not exist
+## DELETE Remove Student
+- Accepts student ID to be removed
+- Returns 200 OK when deleted successfully
+- Returns 404 Not Found if student does not exist
