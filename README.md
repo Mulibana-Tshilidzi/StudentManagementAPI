@@ -29,3 +29,7 @@ for direct contact communication.
 - Returns the full list of all students in the system
 - No parameters required
 - Returns 200 OK on success
+## GET Single Student by ID
+- Accepts an integer ID in the URL
+- Returns 200 OK if found
+- Returns 404 Not Found if no student matches the ID
