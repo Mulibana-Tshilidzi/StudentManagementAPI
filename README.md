@@ -25,3 +25,7 @@ Test endpoints via Swagger
 - PhoneNumber — Contact number (custom property)
 PhoneNumber is included as the additional custom property
 for direct contact communication.
+## GET All Students
+- Returns the full list of all students in the system
+- No parameters required
+- Returns 200 OK on success
