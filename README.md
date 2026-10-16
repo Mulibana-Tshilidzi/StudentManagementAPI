@@ -64,3 +64,7 @@ document as required evidence.
 - MVC Controllers return views for the user interface
 - API Controllers return structured data (JSON)
 - Both can coexist in the same ASP.NET Core application
+## REST API Principles
+- Stateless — Each request contains all information needed
+- Uniform Interface — Consistent naming and methods
+- Resource-Based — Uses URLs to identify data resources
