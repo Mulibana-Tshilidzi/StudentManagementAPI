@@ -48,3 +48,7 @@ for direct contact communication.
 ## Error Handling
 All endpoints return 404 Not Found when an operation
 targets a student ID that does not exist in the system.
+## API Endpoint Planning
+A complete Endpoint Plan was prepared during Part 1,
+documenting every route, method, and expected response
+before implementation began.
