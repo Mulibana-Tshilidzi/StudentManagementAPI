@@ -56,3 +56,7 @@ before implementation began.
 All endpoints were tested using Swagger UI. Screenshots of
 each successful test are included in the accompanying Word
 document as required evidence.
+## Project Structure
+- Part2-API/ — Main API application
+- .github/ — Workflow configuration files
+- .gitignore — Specifies files to be excluded from version control
