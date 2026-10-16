@@ -45,3 +45,6 @@ for direct contact communication.
 - Accepts student ID to be removed
 - Returns 200 OK when deleted successfully
 - Returns 404 Not Found if student does not exist
+## Error Handling
+All endpoints return 404 Not Found when an operation
+targets a student ID that does not exist in the system.
