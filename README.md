@@ -60,3 +60,7 @@ document as required evidence.
 - Part2-API/ — Main API application
 - .github/ — Workflow configuration files
 - .gitignore — Specifies files to be excluded from version control
+## MVC vs API Controllers
+- MVC Controllers return views for the user interface
+- API Controllers return structured data (JSON)
+- Both can coexist in the same ASP.NET Core application
