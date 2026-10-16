@@ -72,3 +72,4 @@ document as required evidence.
 - Video recording of project walkthrough included
 - Full project source code uploaded
 - All requirements implemented and tested
+Submitted successfully — Thank you!
