@@ -68,3 +68,7 @@ document as required evidence.
 - Stateless — Each request contains all information needed
 - Uniform Interface — Consistent naming and methods
 - Resource-Based — Uses URLs to identify data resources
+## Submission Notes
+- Video recording of project walkthrough included
+- Full project source code uploaded
+- All requirements implemented and tested
