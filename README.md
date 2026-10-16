@@ -23,3 +23,5 @@ Test endpoints via Swagger
 - Course — Academic course enrolled
 - Year — Current study year
 - PhoneNumber — Contact number (custom property)
+PhoneNumber is included as the additional custom property
+for direct contact communication.
