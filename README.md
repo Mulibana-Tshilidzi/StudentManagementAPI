@@ -15,3 +15,11 @@ Test endpoints via Swagger
 - 200 OK — Request successful
 - 201 Created — New record added
 - 404 Not Found — Student does not exist
+## Student Model Properties
+- Id — Unique identifier
+- Name — Student first name
+- Surname — Student last name
+- Email — Student email address
+- Course — Academic course enrolled
+- Year — Current study year
+- PhoneNumber — Contact number (custom property)
