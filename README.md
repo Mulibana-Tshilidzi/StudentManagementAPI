@@ -11,3 +11,7 @@ Test endpoints via Swagger
 -POST / api/ students - Create new student
 -PUT / api/ students/{id} - Update student
 -DELETE / api/students/{id} -Remove student
+## HTTP Status Codes
+- 200 OK — Request successful
+- 201 Created — New record added
+- 404 Not Found — Student does not exist
